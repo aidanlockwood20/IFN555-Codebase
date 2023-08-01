@@ -1,0 +1,15 @@
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week1/Week1/bin/Debug/net7.0/Week1
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week1/Week1/bin/Debug/net7.0/Week1.deps.json
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week1/Week1/bin/Debug/net7.0/Week1.runtimeconfig.json
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week1/Week1/bin/Debug/net7.0/Week1.dll
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week1/Week1/bin/Debug/net7.0/Week1.pdb
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week1/Week1/obj/Debug/net7.0/Week1.csproj.AssemblyReference.cache
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week1/Week1/obj/Debug/net7.0/Week1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week1/Week1/obj/Debug/net7.0/Week1.AssemblyInfoInputs.cache
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week1/Week1/obj/Debug/net7.0/Week1.AssemblyInfo.cs
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week1/Week1/obj/Debug/net7.0/Week1.csproj.CoreCompileInputs.cache
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week1/Week1/obj/Debug/net7.0/Week1.dll
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week1/Week1/obj/Debug/net7.0/refint/Week1.dll
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week1/Week1/obj/Debug/net7.0/Week1.pdb
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week1/Week1/obj/Debug/net7.0/Week1.genruntimeconfig.cache
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week1/Week1/obj/Debug/net7.0/ref/Week1.dll
