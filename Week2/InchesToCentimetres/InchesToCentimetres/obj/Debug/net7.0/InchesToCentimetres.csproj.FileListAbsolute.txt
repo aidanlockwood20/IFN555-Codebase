@@ -1,0 +1,15 @@
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week 2/InchesToCentimetres/InchesToCentimetres/bin/Debug/net7.0/InchesToCentimetres
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week 2/InchesToCentimetres/InchesToCentimetres/bin/Debug/net7.0/InchesToCentimetres.deps.json
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week 2/InchesToCentimetres/InchesToCentimetres/bin/Debug/net7.0/InchesToCentimetres.runtimeconfig.json
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week 2/InchesToCentimetres/InchesToCentimetres/bin/Debug/net7.0/InchesToCentimetres.dll
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week 2/InchesToCentimetres/InchesToCentimetres/bin/Debug/net7.0/InchesToCentimetres.pdb
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week 2/InchesToCentimetres/InchesToCentimetres/obj/Debug/net7.0/InchesToCentimetres.csproj.AssemblyReference.cache
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week 2/InchesToCentimetres/InchesToCentimetres/obj/Debug/net7.0/InchesToCentimetres.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week 2/InchesToCentimetres/InchesToCentimetres/obj/Debug/net7.0/InchesToCentimetres.AssemblyInfoInputs.cache
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week 2/InchesToCentimetres/InchesToCentimetres/obj/Debug/net7.0/InchesToCentimetres.AssemblyInfo.cs
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week 2/InchesToCentimetres/InchesToCentimetres/obj/Debug/net7.0/InchesToCentimetres.csproj.CoreCompileInputs.cache
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week 2/InchesToCentimetres/InchesToCentimetres/obj/Debug/net7.0/InchesToCentimetres.dll
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week 2/InchesToCentimetres/InchesToCentimetres/obj/Debug/net7.0/refint/InchesToCentimetres.dll
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week 2/InchesToCentimetres/InchesToCentimetres/obj/Debug/net7.0/InchesToCentimetres.pdb
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week 2/InchesToCentimetres/InchesToCentimetres/obj/Debug/net7.0/InchesToCentimetres.genruntimeconfig.cache
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week 2/InchesToCentimetres/InchesToCentimetres/obj/Debug/net7.0/ref/InchesToCentimetres.dll

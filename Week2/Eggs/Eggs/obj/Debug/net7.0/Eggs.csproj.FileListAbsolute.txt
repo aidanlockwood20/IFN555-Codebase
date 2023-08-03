@@ -1,0 +1,15 @@
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week2/Eggs/Eggs/bin/Debug/net7.0/Eggs
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week2/Eggs/Eggs/bin/Debug/net7.0/Eggs.deps.json
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week2/Eggs/Eggs/bin/Debug/net7.0/Eggs.runtimeconfig.json
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week2/Eggs/Eggs/bin/Debug/net7.0/Eggs.dll
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week2/Eggs/Eggs/bin/Debug/net7.0/Eggs.pdb
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week2/Eggs/Eggs/obj/Debug/net7.0/Eggs.csproj.AssemblyReference.cache
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week2/Eggs/Eggs/obj/Debug/net7.0/Eggs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week2/Eggs/Eggs/obj/Debug/net7.0/Eggs.AssemblyInfoInputs.cache
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week2/Eggs/Eggs/obj/Debug/net7.0/Eggs.AssemblyInfo.cs
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week2/Eggs/Eggs/obj/Debug/net7.0/Eggs.csproj.CoreCompileInputs.cache
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week2/Eggs/Eggs/obj/Debug/net7.0/Eggs.dll
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week2/Eggs/Eggs/obj/Debug/net7.0/refint/Eggs.dll
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week2/Eggs/Eggs/obj/Debug/net7.0/Eggs.pdb
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week2/Eggs/Eggs/obj/Debug/net7.0/Eggs.genruntimeconfig.cache
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week2/Eggs/Eggs/obj/Debug/net7.0/ref/Eggs.dll

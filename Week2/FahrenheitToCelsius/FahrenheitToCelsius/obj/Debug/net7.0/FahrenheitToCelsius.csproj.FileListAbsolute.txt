@@ -1,0 +1,15 @@
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week2/FahrenheitToCelsius/FahrenheitToCelsius/bin/Debug/net7.0/FahrenheitToCelsius
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week2/FahrenheitToCelsius/FahrenheitToCelsius/bin/Debug/net7.0/FahrenheitToCelsius.deps.json
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week2/FahrenheitToCelsius/FahrenheitToCelsius/bin/Debug/net7.0/FahrenheitToCelsius.runtimeconfig.json
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week2/FahrenheitToCelsius/FahrenheitToCelsius/bin/Debug/net7.0/FahrenheitToCelsius.dll
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week2/FahrenheitToCelsius/FahrenheitToCelsius/bin/Debug/net7.0/FahrenheitToCelsius.pdb
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week2/FahrenheitToCelsius/FahrenheitToCelsius/obj/Debug/net7.0/FahrenheitToCelsius.csproj.AssemblyReference.cache
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week2/FahrenheitToCelsius/FahrenheitToCelsius/obj/Debug/net7.0/FahrenheitToCelsius.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week2/FahrenheitToCelsius/FahrenheitToCelsius/obj/Debug/net7.0/FahrenheitToCelsius.AssemblyInfoInputs.cache
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week2/FahrenheitToCelsius/FahrenheitToCelsius/obj/Debug/net7.0/FahrenheitToCelsius.AssemblyInfo.cs
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week2/FahrenheitToCelsius/FahrenheitToCelsius/obj/Debug/net7.0/FahrenheitToCelsius.csproj.CoreCompileInputs.cache
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week2/FahrenheitToCelsius/FahrenheitToCelsius/obj/Debug/net7.0/FahrenheitToCelsius.dll
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week2/FahrenheitToCelsius/FahrenheitToCelsius/obj/Debug/net7.0/refint/FahrenheitToCelsius.dll
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week2/FahrenheitToCelsius/FahrenheitToCelsius/obj/Debug/net7.0/FahrenheitToCelsius.pdb
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week2/FahrenheitToCelsius/FahrenheitToCelsius/obj/Debug/net7.0/FahrenheitToCelsius.genruntimeconfig.cache
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week2/FahrenheitToCelsius/FahrenheitToCelsius/obj/Debug/net7.0/ref/FahrenheitToCelsius.dll

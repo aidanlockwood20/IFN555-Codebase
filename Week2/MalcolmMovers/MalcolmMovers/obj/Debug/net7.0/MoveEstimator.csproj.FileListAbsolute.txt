@@ -1,0 +1,15 @@
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week 2/MalcolmMovers/MalcolmMovers/bin/Debug/net7.0/MoveEstimator
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week 2/MalcolmMovers/MalcolmMovers/bin/Debug/net7.0/MoveEstimator.deps.json
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week 2/MalcolmMovers/MalcolmMovers/bin/Debug/net7.0/MoveEstimator.runtimeconfig.json
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week 2/MalcolmMovers/MalcolmMovers/bin/Debug/net7.0/MoveEstimator.dll
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week 2/MalcolmMovers/MalcolmMovers/bin/Debug/net7.0/MoveEstimator.pdb
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week 2/MalcolmMovers/MalcolmMovers/obj/Debug/net7.0/MoveEstimator.csproj.AssemblyReference.cache
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week 2/MalcolmMovers/MalcolmMovers/obj/Debug/net7.0/MoveEstimator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week 2/MalcolmMovers/MalcolmMovers/obj/Debug/net7.0/MoveEstimator.AssemblyInfoInputs.cache
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week 2/MalcolmMovers/MalcolmMovers/obj/Debug/net7.0/MoveEstimator.AssemblyInfo.cs
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week 2/MalcolmMovers/MalcolmMovers/obj/Debug/net7.0/MoveEstimator.csproj.CoreCompileInputs.cache
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week 2/MalcolmMovers/MalcolmMovers/obj/Debug/net7.0/MoveEstimator.dll
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week 2/MalcolmMovers/MalcolmMovers/obj/Debug/net7.0/refint/MoveEstimator.dll
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week 2/MalcolmMovers/MalcolmMovers/obj/Debug/net7.0/MoveEstimator.pdb
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week 2/MalcolmMovers/MalcolmMovers/obj/Debug/net7.0/MoveEstimator.genruntimeconfig.cache
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week 2/MalcolmMovers/MalcolmMovers/obj/Debug/net7.0/ref/MoveEstimator.dll

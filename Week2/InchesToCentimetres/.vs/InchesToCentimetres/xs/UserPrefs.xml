@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{B89CF61E-6861-49B5-93F2-DD265DA95057}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="InchesToCentimetres/CalculateInchesToCentimetres.cs">
+    <Files>
+      <File FileName="InchesToCentimetres/Program.cs" Line="12" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="InchesToCentimetres" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.InchesToCentimetres PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

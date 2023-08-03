@@ -1,0 +1,15 @@
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week2/MakeChange/MakeChange/bin/Debug/net7.0/MakeChange
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week2/MakeChange/MakeChange/bin/Debug/net7.0/MakeChange.deps.json
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week2/MakeChange/MakeChange/bin/Debug/net7.0/MakeChange.runtimeconfig.json
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week2/MakeChange/MakeChange/bin/Debug/net7.0/MakeChange.dll
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week2/MakeChange/MakeChange/bin/Debug/net7.0/MakeChange.pdb
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week2/MakeChange/MakeChange/obj/Debug/net7.0/MakeChange.csproj.AssemblyReference.cache
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week2/MakeChange/MakeChange/obj/Debug/net7.0/MakeChange.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week2/MakeChange/MakeChange/obj/Debug/net7.0/MakeChange.AssemblyInfoInputs.cache
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week2/MakeChange/MakeChange/obj/Debug/net7.0/MakeChange.AssemblyInfo.cs
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week2/MakeChange/MakeChange/obj/Debug/net7.0/MakeChange.csproj.CoreCompileInputs.cache
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week2/MakeChange/MakeChange/obj/Debug/net7.0/MakeChange.dll
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week2/MakeChange/MakeChange/obj/Debug/net7.0/refint/MakeChange.dll
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week2/MakeChange/MakeChange/obj/Debug/net7.0/MakeChange.pdb
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week2/MakeChange/MakeChange/obj/Debug/net7.0/MakeChange.genruntimeconfig.cache
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week2/MakeChange/MakeChange/obj/Debug/net7.0/ref/MakeChange.dll
