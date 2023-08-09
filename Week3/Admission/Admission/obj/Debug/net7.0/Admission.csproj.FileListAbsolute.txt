@@ -1,0 +1,15 @@
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week3/Admission/Admission/bin/Debug/net7.0/Admission
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week3/Admission/Admission/bin/Debug/net7.0/Admission.deps.json
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week3/Admission/Admission/bin/Debug/net7.0/Admission.runtimeconfig.json
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week3/Admission/Admission/bin/Debug/net7.0/Admission.dll
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week3/Admission/Admission/bin/Debug/net7.0/Admission.pdb
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week3/Admission/Admission/obj/Debug/net7.0/Admission.csproj.AssemblyReference.cache
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week3/Admission/Admission/obj/Debug/net7.0/Admission.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week3/Admission/Admission/obj/Debug/net7.0/Admission.AssemblyInfoInputs.cache
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week3/Admission/Admission/obj/Debug/net7.0/Admission.AssemblyInfo.cs
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week3/Admission/Admission/obj/Debug/net7.0/Admission.csproj.CoreCompileInputs.cache
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week3/Admission/Admission/obj/Debug/net7.0/Admission.dll
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week3/Admission/Admission/obj/Debug/net7.0/refint/Admission.dll
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week3/Admission/Admission/obj/Debug/net7.0/Admission.pdb
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week3/Admission/Admission/obj/Debug/net7.0/Admission.genruntimeconfig.cache
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week3/Admission/Admission/obj/Debug/net7.0/ref/Admission.dll

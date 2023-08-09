@@ -1,0 +1,15 @@
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week3/CheckMonth/CheckMonth/obj/Debug/net7.0/CheckMonth.csproj.AssemblyReference.cache
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week3/CheckMonth/CheckMonth/obj/Debug/net7.0/CheckMonth.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week3/CheckMonth/CheckMonth/obj/Debug/net7.0/CheckMonth.AssemblyInfoInputs.cache
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week3/CheckMonth/CheckMonth/obj/Debug/net7.0/CheckMonth.AssemblyInfo.cs
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week3/CheckMonth/CheckMonth/obj/Debug/net7.0/CheckMonth.csproj.CoreCompileInputs.cache
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week3/CheckMonth/CheckMonth/bin/Debug/net7.0/CheckMonth
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week3/CheckMonth/CheckMonth/bin/Debug/net7.0/CheckMonth.deps.json
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week3/CheckMonth/CheckMonth/bin/Debug/net7.0/CheckMonth.runtimeconfig.json
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week3/CheckMonth/CheckMonth/bin/Debug/net7.0/CheckMonth.dll
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week3/CheckMonth/CheckMonth/bin/Debug/net7.0/CheckMonth.pdb
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week3/CheckMonth/CheckMonth/obj/Debug/net7.0/CheckMonth.dll
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week3/CheckMonth/CheckMonth/obj/Debug/net7.0/refint/CheckMonth.dll
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week3/CheckMonth/CheckMonth/obj/Debug/net7.0/CheckMonth.pdb
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week3/CheckMonth/CheckMonth/obj/Debug/net7.0/CheckMonth.genruntimeconfig.cache
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week3/CheckMonth/CheckMonth/obj/Debug/net7.0/ref/CheckMonth.dll

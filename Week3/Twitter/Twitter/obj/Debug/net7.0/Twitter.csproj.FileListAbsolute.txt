@@ -1,0 +1,15 @@
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week3/Twitter/Twitter/bin/Debug/net7.0/Twitter
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week3/Twitter/Twitter/bin/Debug/net7.0/Twitter.deps.json
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week3/Twitter/Twitter/bin/Debug/net7.0/Twitter.runtimeconfig.json
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week3/Twitter/Twitter/bin/Debug/net7.0/Twitter.dll
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week3/Twitter/Twitter/bin/Debug/net7.0/Twitter.pdb
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week3/Twitter/Twitter/obj/Debug/net7.0/Twitter.csproj.AssemblyReference.cache
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week3/Twitter/Twitter/obj/Debug/net7.0/Twitter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week3/Twitter/Twitter/obj/Debug/net7.0/Twitter.AssemblyInfoInputs.cache
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week3/Twitter/Twitter/obj/Debug/net7.0/Twitter.AssemblyInfo.cs
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week3/Twitter/Twitter/obj/Debug/net7.0/Twitter.csproj.CoreCompileInputs.cache
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week3/Twitter/Twitter/obj/Debug/net7.0/Twitter.dll
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week3/Twitter/Twitter/obj/Debug/net7.0/refint/Twitter.dll
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week3/Twitter/Twitter/obj/Debug/net7.0/Twitter.pdb
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week3/Twitter/Twitter/obj/Debug/net7.0/Twitter.genruntimeconfig.cache
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week3/Twitter/Twitter/obj/Debug/net7.0/ref/Twitter.dll
