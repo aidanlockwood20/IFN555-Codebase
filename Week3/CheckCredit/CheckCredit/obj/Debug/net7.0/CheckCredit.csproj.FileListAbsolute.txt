@@ -1,0 +1,15 @@
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week3/CheckCredit/CheckCredit/bin/Debug/net7.0/CheckCredit
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week3/CheckCredit/CheckCredit/bin/Debug/net7.0/CheckCredit.deps.json
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week3/CheckCredit/CheckCredit/bin/Debug/net7.0/CheckCredit.runtimeconfig.json
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week3/CheckCredit/CheckCredit/bin/Debug/net7.0/CheckCredit.dll
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week3/CheckCredit/CheckCredit/bin/Debug/net7.0/CheckCredit.pdb
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week3/CheckCredit/CheckCredit/obj/Debug/net7.0/CheckCredit.csproj.AssemblyReference.cache
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week3/CheckCredit/CheckCredit/obj/Debug/net7.0/CheckCredit.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week3/CheckCredit/CheckCredit/obj/Debug/net7.0/CheckCredit.AssemblyInfoInputs.cache
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week3/CheckCredit/CheckCredit/obj/Debug/net7.0/CheckCredit.AssemblyInfo.cs
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week3/CheckCredit/CheckCredit/obj/Debug/net7.0/CheckCredit.csproj.CoreCompileInputs.cache
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week3/CheckCredit/CheckCredit/obj/Debug/net7.0/CheckCredit.dll
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week3/CheckCredit/CheckCredit/obj/Debug/net7.0/refint/CheckCredit.dll
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week3/CheckCredit/CheckCredit/obj/Debug/net7.0/CheckCredit.pdb
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week3/CheckCredit/CheckCredit/obj/Debug/net7.0/CheckCredit.genruntimeconfig.cache
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week3/CheckCredit/CheckCredit/obj/Debug/net7.0/ref/CheckCredit.dll

@@ -12,7 +12,7 @@ class Program
     {
         string userTweet;
         int userTweetLength;
-        int tweetMessageLength = 3;
+        const int TWEET_MESSAGE_LENGTH = 140;
         bool userTweetIncorrectLength = true;
 
         while (userTweetIncorrectLength)
@@ -23,7 +23,7 @@ class Program
             userTweet = Console.ReadLine();
             userTweetLength = userTweet.Length;
 
-            if (userTweetLength > tweetMessageLength)
+            if (userTweetLength > TWEET_MESSAGE_LENGTH)
             {
                 Console.WriteLine("Post is invalid. Message is too long.");
                 Console.WriteLine("Please ensure your message is within 140 characters");

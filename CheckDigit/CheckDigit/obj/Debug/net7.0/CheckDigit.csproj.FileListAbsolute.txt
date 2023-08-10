@@ -1,0 +1,15 @@
+/Users/aidanlockwood/GitHub/IFN555-Codebase/CheckDigit/CheckDigit/bin/Debug/net7.0/CheckDigit
+/Users/aidanlockwood/GitHub/IFN555-Codebase/CheckDigit/CheckDigit/bin/Debug/net7.0/CheckDigit.deps.json
+/Users/aidanlockwood/GitHub/IFN555-Codebase/CheckDigit/CheckDigit/bin/Debug/net7.0/CheckDigit.runtimeconfig.json
+/Users/aidanlockwood/GitHub/IFN555-Codebase/CheckDigit/CheckDigit/bin/Debug/net7.0/CheckDigit.dll
+/Users/aidanlockwood/GitHub/IFN555-Codebase/CheckDigit/CheckDigit/bin/Debug/net7.0/CheckDigit.pdb
+/Users/aidanlockwood/GitHub/IFN555-Codebase/CheckDigit/CheckDigit/obj/Debug/net7.0/CheckDigit.csproj.AssemblyReference.cache
+/Users/aidanlockwood/GitHub/IFN555-Codebase/CheckDigit/CheckDigit/obj/Debug/net7.0/CheckDigit.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aidanlockwood/GitHub/IFN555-Codebase/CheckDigit/CheckDigit/obj/Debug/net7.0/CheckDigit.AssemblyInfoInputs.cache
+/Users/aidanlockwood/GitHub/IFN555-Codebase/CheckDigit/CheckDigit/obj/Debug/net7.0/CheckDigit.AssemblyInfo.cs
+/Users/aidanlockwood/GitHub/IFN555-Codebase/CheckDigit/CheckDigit/obj/Debug/net7.0/CheckDigit.csproj.CoreCompileInputs.cache
+/Users/aidanlockwood/GitHub/IFN555-Codebase/CheckDigit/CheckDigit/obj/Debug/net7.0/CheckDigit.dll
+/Users/aidanlockwood/GitHub/IFN555-Codebase/CheckDigit/CheckDigit/obj/Debug/net7.0/refint/CheckDigit.dll
+/Users/aidanlockwood/GitHub/IFN555-Codebase/CheckDigit/CheckDigit/obj/Debug/net7.0/CheckDigit.pdb
+/Users/aidanlockwood/GitHub/IFN555-Codebase/CheckDigit/CheckDigit/obj/Debug/net7.0/CheckDigit.genruntimeconfig.cache
+/Users/aidanlockwood/GitHub/IFN555-Codebase/CheckDigit/CheckDigit/obj/Debug/net7.0/ref/CheckDigit.dll

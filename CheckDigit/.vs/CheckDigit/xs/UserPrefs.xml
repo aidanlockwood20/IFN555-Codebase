@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{8DBE1D6E-E970-422A-947D-9574654A1305}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CheckDigit/Program.cs">
+    <Files>
+      <File FileName="CheckDigit/Program.cs" Line="33" Column="19" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CheckDigit" expanded="True">
+            <Node name="CheckDigit">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CheckDigit PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

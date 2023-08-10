@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/aidanlockwood/GitHub/IFN555-Codebase/Week3/Twitter/Twitter/Twitter.csproj",
-      "projectName": "Twitter",
-      "projectPath": "/Users/aidanlockwood/GitHub/IFN555-Codebase/Week3/Twitter/Twitter/Twitter.csproj",
+      "projectUniqueName": "/Users/aidanlockwood/GitHub/IFN555-Codebase/Week3/CheckCredit/CheckCredit/CheckCredit.csproj",
+      "projectName": "CheckCredit",
+      "projectPath": "/Users/aidanlockwood/GitHub/IFN555-Codebase/Week3/CheckCredit/CheckCredit/CheckCredit.csproj",
       "packagesPath": "/Users/aidanlockwood/.nuget/packages/",
-      "outputPath": "/Users/aidanlockwood/GitHub/IFN555-Codebase/Week3/Twitter/Twitter/obj/",
+      "outputPath": "/Users/aidanlockwood/GitHub/IFN555-Codebase/Week3/CheckCredit/CheckCredit/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/aidanlockwood/.nuget/NuGet/NuGet.Config"

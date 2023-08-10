@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/aidanlockwood/GitHub/IFN555-Codebase/Week3/Twitter/Twitter/Twitter.csproj": {}
+    "/Users/aidanlockwood/GitHub/IFN555-Codebase/CheckDigit/CheckDigit/CheckDigit.csproj": {}
   },
   "projects": {
-    "/Users/aidanlockwood/GitHub/IFN555-Codebase/Week3/Twitter/Twitter/Twitter.csproj": {
+    "/Users/aidanlockwood/GitHub/IFN555-Codebase/CheckDigit/CheckDigit/CheckDigit.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/aidanlockwood/GitHub/IFN555-Codebase/Week3/Twitter/Twitter/Twitter.csproj",
-        "projectName": "Twitter",
-        "projectPath": "/Users/aidanlockwood/GitHub/IFN555-Codebase/Week3/Twitter/Twitter/Twitter.csproj",
+        "projectUniqueName": "/Users/aidanlockwood/GitHub/IFN555-Codebase/CheckDigit/CheckDigit/CheckDigit.csproj",
+        "projectName": "CheckDigit",
+        "projectPath": "/Users/aidanlockwood/GitHub/IFN555-Codebase/CheckDigit/CheckDigit/CheckDigit.csproj",
         "packagesPath": "/Users/aidanlockwood/.nuget/packages/",
-        "outputPath": "/Users/aidanlockwood/GitHub/IFN555-Codebase/Week3/Twitter/Twitter/obj/",
+        "outputPath": "/Users/aidanlockwood/GitHub/IFN555-Codebase/CheckDigit/CheckDigit/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/aidanlockwood/.nuget/NuGet/NuGet.Config"
