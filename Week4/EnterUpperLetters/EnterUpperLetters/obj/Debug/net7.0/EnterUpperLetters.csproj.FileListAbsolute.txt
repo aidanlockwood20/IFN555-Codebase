@@ -1,0 +1,15 @@
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week4/EnterUpperLetters/EnterUpperLetters/bin/Debug/net7.0/EnterUpperLetters
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week4/EnterUpperLetters/EnterUpperLetters/bin/Debug/net7.0/EnterUpperLetters.deps.json
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week4/EnterUpperLetters/EnterUpperLetters/bin/Debug/net7.0/EnterUpperLetters.runtimeconfig.json
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week4/EnterUpperLetters/EnterUpperLetters/bin/Debug/net7.0/EnterUpperLetters.dll
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week4/EnterUpperLetters/EnterUpperLetters/bin/Debug/net7.0/EnterUpperLetters.pdb
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week4/EnterUpperLetters/EnterUpperLetters/obj/Debug/net7.0/EnterUpperLetters.csproj.AssemblyReference.cache
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week4/EnterUpperLetters/EnterUpperLetters/obj/Debug/net7.0/EnterUpperLetters.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week4/EnterUpperLetters/EnterUpperLetters/obj/Debug/net7.0/EnterUpperLetters.AssemblyInfoInputs.cache
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week4/EnterUpperLetters/EnterUpperLetters/obj/Debug/net7.0/EnterUpperLetters.AssemblyInfo.cs
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week4/EnterUpperLetters/EnterUpperLetters/obj/Debug/net7.0/EnterUpperLetters.csproj.CoreCompileInputs.cache
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week4/EnterUpperLetters/EnterUpperLetters/obj/Debug/net7.0/EnterUpperLetters.dll
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week4/EnterUpperLetters/EnterUpperLetters/obj/Debug/net7.0/refint/EnterUpperLetters.dll
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week4/EnterUpperLetters/EnterUpperLetters/obj/Debug/net7.0/EnterUpperLetters.pdb
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week4/EnterUpperLetters/EnterUpperLetters/obj/Debug/net7.0/EnterUpperLetters.genruntimeconfig.cache
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week4/EnterUpperLetters/EnterUpperLetters/obj/Debug/net7.0/ref/EnterUpperLetters.dll

@@ -1,0 +1,15 @@
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week4/DisplayMultiplicationTable/DisplayMultiplicationTable/bin/Debug/net7.0/DisplayMultiplicationTable
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week4/DisplayMultiplicationTable/DisplayMultiplicationTable/bin/Debug/net7.0/DisplayMultiplicationTable.deps.json
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week4/DisplayMultiplicationTable/DisplayMultiplicationTable/bin/Debug/net7.0/DisplayMultiplicationTable.runtimeconfig.json
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week4/DisplayMultiplicationTable/DisplayMultiplicationTable/bin/Debug/net7.0/DisplayMultiplicationTable.dll
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week4/DisplayMultiplicationTable/DisplayMultiplicationTable/bin/Debug/net7.0/DisplayMultiplicationTable.pdb
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week4/DisplayMultiplicationTable/DisplayMultiplicationTable/obj/Debug/net7.0/DisplayMultiplicationTable.csproj.AssemblyReference.cache
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week4/DisplayMultiplicationTable/DisplayMultiplicationTable/obj/Debug/net7.0/DisplayMultiplicationTable.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week4/DisplayMultiplicationTable/DisplayMultiplicationTable/obj/Debug/net7.0/DisplayMultiplicationTable.AssemblyInfoInputs.cache
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week4/DisplayMultiplicationTable/DisplayMultiplicationTable/obj/Debug/net7.0/DisplayMultiplicationTable.AssemblyInfo.cs
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week4/DisplayMultiplicationTable/DisplayMultiplicationTable/obj/Debug/net7.0/DisplayMultiplicationTable.csproj.CoreCompileInputs.cache
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week4/DisplayMultiplicationTable/DisplayMultiplicationTable/obj/Debug/net7.0/DisplayMultiplicationTable.dll
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week4/DisplayMultiplicationTable/DisplayMultiplicationTable/obj/Debug/net7.0/refint/DisplayMultiplicationTable.dll
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week4/DisplayMultiplicationTable/DisplayMultiplicationTable/obj/Debug/net7.0/DisplayMultiplicationTable.pdb
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week4/DisplayMultiplicationTable/DisplayMultiplicationTable/obj/Debug/net7.0/DisplayMultiplicationTable.genruntimeconfig.cache
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week4/DisplayMultiplicationTable/DisplayMultiplicationTable/obj/Debug/net7.0/ref/DisplayMultiplicationTable.dll

@@ -1,0 +1,15 @@
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week4/DailyTemps/DailyTemps/bin/Debug/net7.0/DailyTemps
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week4/DailyTemps/DailyTemps/bin/Debug/net7.0/DailyTemps.deps.json
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week4/DailyTemps/DailyTemps/bin/Debug/net7.0/DailyTemps.runtimeconfig.json
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week4/DailyTemps/DailyTemps/bin/Debug/net7.0/DailyTemps.dll
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week4/DailyTemps/DailyTemps/bin/Debug/net7.0/DailyTemps.pdb
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week4/DailyTemps/DailyTemps/obj/Debug/net7.0/DailyTemps.csproj.AssemblyReference.cache
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week4/DailyTemps/DailyTemps/obj/Debug/net7.0/DailyTemps.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week4/DailyTemps/DailyTemps/obj/Debug/net7.0/DailyTemps.AssemblyInfoInputs.cache
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week4/DailyTemps/DailyTemps/obj/Debug/net7.0/DailyTemps.AssemblyInfo.cs
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week4/DailyTemps/DailyTemps/obj/Debug/net7.0/DailyTemps.csproj.CoreCompileInputs.cache
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week4/DailyTemps/DailyTemps/obj/Debug/net7.0/DailyTemps.dll
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week4/DailyTemps/DailyTemps/obj/Debug/net7.0/refint/DailyTemps.dll
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week4/DailyTemps/DailyTemps/obj/Debug/net7.0/DailyTemps.pdb
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week4/DailyTemps/DailyTemps/obj/Debug/net7.0/DailyTemps.genruntimeconfig.cache
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week4/DailyTemps/DailyTemps/obj/Debug/net7.0/ref/DailyTemps.dll

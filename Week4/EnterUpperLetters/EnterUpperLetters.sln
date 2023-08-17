@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.2
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnterUpperLetters", "EnterUpperLetters\EnterUpperLetters.csproj", "{9857E727-0A98-41BB-B908-F9B0B847DBBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9857E727-0A98-41BB-B908-F9B0B847DBBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9857E727-0A98-41BB-B908-F9B0B847DBBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9857E727-0A98-41BB-B908-F9B0B847DBBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9857E727-0A98-41BB-B908-F9B0B847DBBA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A3AF11E-1C52-44B0-B378-29CCA74959E7}
+	EndGlobalSection
+EndGlobal

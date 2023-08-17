@@ -1,0 +1,15 @@
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week4/SumInts/SumInts/bin/Debug/net7.0/SumInts
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week4/SumInts/SumInts/bin/Debug/net7.0/SumInts.deps.json
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week4/SumInts/SumInts/bin/Debug/net7.0/SumInts.runtimeconfig.json
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week4/SumInts/SumInts/bin/Debug/net7.0/SumInts.dll
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week4/SumInts/SumInts/bin/Debug/net7.0/SumInts.pdb
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week4/SumInts/SumInts/obj/Debug/net7.0/SumInts.csproj.AssemblyReference.cache
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week4/SumInts/SumInts/obj/Debug/net7.0/SumInts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week4/SumInts/SumInts/obj/Debug/net7.0/SumInts.AssemblyInfoInputs.cache
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week4/SumInts/SumInts/obj/Debug/net7.0/SumInts.AssemblyInfo.cs
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week4/SumInts/SumInts/obj/Debug/net7.0/SumInts.csproj.CoreCompileInputs.cache
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week4/SumInts/SumInts/obj/Debug/net7.0/SumInts.dll
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week4/SumInts/SumInts/obj/Debug/net7.0/refint/SumInts.dll
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week4/SumInts/SumInts/obj/Debug/net7.0/SumInts.pdb
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week4/SumInts/SumInts/obj/Debug/net7.0/SumInts.genruntimeconfig.cache
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Week4/SumInts/SumInts/obj/Debug/net7.0/ref/SumInts.dll
