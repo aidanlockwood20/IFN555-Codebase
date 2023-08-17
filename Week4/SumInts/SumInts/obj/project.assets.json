@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/aidanlockwood/GitHub/IFN555-Codebase/Week3/CheckMonth/CheckMonth/CheckMonth.csproj",
-      "projectName": "CheckMonth",
-      "projectPath": "/Users/aidanlockwood/GitHub/IFN555-Codebase/Week3/CheckMonth/CheckMonth/CheckMonth.csproj",
+      "projectUniqueName": "/Users/aidanlockwood/GitHub/IFN555-Codebase/Week4/SumInts/SumInts/SumInts.csproj",
+      "projectName": "SumInts",
+      "projectPath": "/Users/aidanlockwood/GitHub/IFN555-Codebase/Week4/SumInts/SumInts/SumInts.csproj",
       "packagesPath": "/Users/aidanlockwood/.nuget/packages/",
-      "outputPath": "/Users/aidanlockwood/GitHub/IFN555-Codebase/Week3/CheckMonth/CheckMonth/obj/",
+      "outputPath": "/Users/aidanlockwood/GitHub/IFN555-Codebase/Week4/SumInts/SumInts/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/aidanlockwood/.nuget/NuGet/NuGet.Config"

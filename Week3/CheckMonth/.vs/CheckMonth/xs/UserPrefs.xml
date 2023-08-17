@@ -1,7 +1,8 @@
 ﻿<Properties StartupConfiguration="{F041BDD4-DA58-46EB-9047-2859704D9185}|Default">
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.CheckMonth PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.Workbench ActiveDocument="CheckMonth/Program.cs">
     <Files>
       <File FileName="CheckMonth/Program.cs" Line="21" Column="64" />
@@ -9,7 +10,7 @@
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="CheckMonth" expanded="True">
+          <Node name="CheckMonth">
             <Node name="CheckMonth">
               <Node name="Program.cs" selected="True" />
             </Node>
@@ -18,8 +19,7 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.CheckMonth PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
 </Properties>
