@@ -1,0 +1,15 @@
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Programming Assignment/AlphaApp/AlphaApp/bin/Debug/net7.0/AlphaApp
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Programming Assignment/AlphaApp/AlphaApp/bin/Debug/net7.0/AlphaApp.deps.json
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Programming Assignment/AlphaApp/AlphaApp/bin/Debug/net7.0/AlphaApp.runtimeconfig.json
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Programming Assignment/AlphaApp/AlphaApp/bin/Debug/net7.0/AlphaApp.dll
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Programming Assignment/AlphaApp/AlphaApp/bin/Debug/net7.0/AlphaApp.pdb
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Programming Assignment/AlphaApp/AlphaApp/obj/Debug/net7.0/AlphaApp.csproj.AssemblyReference.cache
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Programming Assignment/AlphaApp/AlphaApp/obj/Debug/net7.0/AlphaApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Programming Assignment/AlphaApp/AlphaApp/obj/Debug/net7.0/AlphaApp.AssemblyInfoInputs.cache
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Programming Assignment/AlphaApp/AlphaApp/obj/Debug/net7.0/AlphaApp.AssemblyInfo.cs
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Programming Assignment/AlphaApp/AlphaApp/obj/Debug/net7.0/AlphaApp.csproj.CoreCompileInputs.cache
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Programming Assignment/AlphaApp/AlphaApp/obj/Debug/net7.0/AlphaApp.dll
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Programming Assignment/AlphaApp/AlphaApp/obj/Debug/net7.0/refint/AlphaApp.dll
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Programming Assignment/AlphaApp/AlphaApp/obj/Debug/net7.0/AlphaApp.pdb
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Programming Assignment/AlphaApp/AlphaApp/obj/Debug/net7.0/AlphaApp.genruntimeconfig.cache
+/Users/aidanlockwood/GitHub/IFN555-Codebase/Programming Assignment/AlphaApp/AlphaApp/obj/Debug/net7.0/ref/AlphaApp.dll
